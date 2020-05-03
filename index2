@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html lang="pl"/>
+<head>
+	<meta charset'"utf-8" />
+	<title>Ranking top 5 piłkarzy </title>
+	<meta name="description" content="mój subiektywny wybór 5 najlepszych piłkarzy globu w roku 2019" />
+	<meta name="keywords=" content="najlepsi piłkarze, top5 piłkarzy, ranking piłkarzy" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<style>
+		#container
+		{
+			width: 1300px;
+			margin-left: auto;
+			margin-right: auto;
+		
+		}
+		#logo
+		{
+			background-color: black;
+			color:white;
+			text-align: center;
+			padding:15px;
+	
+		}
+		#nav
+		{
+			float: left;
+			background-color: #C0C0C0;
+			color: black;
+			width: 120px;
+			min-height: 620px;
+			padding: 10px;
+			
+					
+		}
+		#content
+		{
+			float: left;
+			font-family: Arial, Helvetica, sans-serif;
+			padding: 30px;
+			heigt: 600px;
+			width: 920px;
+		
+		}
+		#ad 
+		{
+			text-align: center;
+			float: left;
+			width: 160px;
+			min-height:620px;
+			padding: 10px;
+		}
+		#footer
+		{
+			clear: both;
+			background-color: black;
+			color: white; 
+			text-decoration-line: underline;
+			text-align: center;
+			padding:10px;
+			
+		}
+		</style>
+</head>
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h2>Najlepsi Piłkarze Świata w 2019 roku</h2>
+		</div>
+		
+		<div id="nav">
+			1: Cristiano Ronaldo <br/>
+			2: Lionel Messi <br/>
+			3: Manuel Neuer<br/>
+			4: Robert Lewandowski <br/>
+			5: Zlatan Ibrahimovic <br/>
+		</div>
+		
+		<div id="content">
+			<h3>Cristiano Ronaldo, właśc. Cristiano Ronaldo dos Santos Aveiro </h3> 
+				(wym. [kɾɨʃtiˈɐnu ʁuˈnaɫdu]; ur. 5 lutego 1985 w Funchal) – portugalski piłkarz występujący na pozycji skrzydłowego lub napastnika we włoskim klubie Juventus oraz w reprezentacji Portugalii, której jest kapitanem. 
+				
+				<br/><br/>Klubową karierę Ronaldo rozpoczął w wieku 8 lat, w małym klubie CF Andorinha. W wieku 10 lat, trafił do jednego z największych klubów Madery, Nacionalu, a w 1997 do akademii Sportingu. W 2003, w wieku 18 lat, podpisał kontrakt z Manchesterem United. Już w pierwszym sezonie zdobył z klubem Puchar Anglii, natomiast w kolejnych latach pomógł United w zdobyciu trzech z rzędu tytułów mistrzowskich, dwóch Pucharów Ligi, Tarczy Wspólnoty, wygraniu Ligi Mistrzów, a także klubowego mistrzostwa świata. W wieku 23 lat, w 2008, po raz pierwszy w karierze sięgnął po Złotą Piłkę, tytuł Piłkarza Roku FIFA oraz Europejski Złoty But.
+				
+				<br/><br/>W 2009 za 94 mln euro trafił z Manchesteru United do Realu Madryt, stając się najdroższym piłkarzem w historii[2]. Podczas oficjalnej prezentacji, na Estadio Santiago Bernabeu, witało go ponad 80 tys. kibiców[3].
+
+				Z hiszpańskim klubem, Cristiano, zdobył 15 trofeów; dwa mistrzostwa Hiszpanii, dwa Puchary Króla, dwa Superpuchary Hiszpanii, cztery puchary Ligi Mistrzów, dwa Superpuchary UEFA, a także trzy klubowe mistrzostwa świata. Z dorobkiem 450 goli jest najlepszym strzelcem w historii Realu Madryt. Mając na koncie 34 hat-tricki jest również rekordzistą La Liga pod tym względem. Należy do niego także rekord hat-tricków w jednym ligowym sezonie w Hiszpanii- 8 z sezonu 2014/15. Jest jedynym piłkarzem, który zdobywał minimum 30 goli w sześciu sezonach La Liga z rzędu. Po dołączeniu do Realu, Ronaldo, zdobył cztery Złote Piłki- nagrody dla najlepszego piłkarza na świecie. Triumfował w 2013, 2014, 2016 i 2017, i obok Lionela Messiego, jest jedynym piłkarzem, który zdobył tę nagrodę pięciokrotnie. Jako piłkarz Realu, trzykrotnie, w 2011, 2014 i 2015 zdobywał także nagrodę Europejskiego Złotego Buta- dla najlepszego strzelca spośród wszystkich najwyższych europejskich lig zrzeszonych w UEFA. W 2018, wygrywając z Realem trzeci z rzędu puchar Ligi Mistrzów, stał się pierwszym piłkarzem w historii, który zdobył to trofeum pięć razy. Z dorobkiem 127 goli jest on najlepszym strzelcem w historii rozgrywek Ligi Mistrzów UEFA.
+
+				Latem 2018 stał się piłkarzem Juventusu (za 100 mln euro).
+
+				W 2003 zadebiutował w seniorskiej reprezentacji Portugalii. Od tamtego czasu wystąpił w narodowych barwach 154 razy strzelając 85 bramek, co czyni go rekordzistą pod względem występów, a także najlepszym strzelcem reprezentacji Portugalii w historii. W 2004 sięgnął z drużyną po srebrny medal mistrzostw Europy. W 2008 został kapitanem reprezentacji Portugalii, którą w nowej roli poprowadził do ćwierćfinału Euro 2008. Cztery lata później zdobył z drużyną brązowy medal Euro 2012, który to UEFA przyznała przegranym w półfinałach, po raz pierwszy w historii. W 2016 zdobył z Portugalią, mistrzostwo Europy, natomiast rok później, brązowy medal Pucharu Konfederacji.
+		</div>
+		
+		<div id="ad">
+				<img src="https://www.5banners.com/store/img/cms/00045.gif" />
+		</div>
+		
+		<div id="footer">
+		Copywright by Kuba Michalski 2020 HTML5
+		</div>
+	
+
+	</div>
+
+</body>
+
+
+
+
+</html>
