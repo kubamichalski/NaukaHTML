@@ -1,0 +1,57 @@
+body
+{
+	background: #4d4f54;
+	color: #ffffff;
+	
+}
+
+#container
+{
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	color: #4d4f54;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+#logo
+{
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	min-height: 60px;
+	padding: 40px;
+}
+
+#menu
+{
+	height: 80px;
+	background-color: #006e1d;
+	color: white;
+	text-align: center;
+		
+}
+
+.option
+{
+	float: left;
+	padding: 20px;
+	width: 283px;
+	height: 40px;
+	background-color: #50755a;
+	border-right: 2px dotted #FFFFFF;
+	letter-spacing:3px;
+	font-size: 22px;
+	
+}
+.option hover
+{
+	cursor: pointer;
+	color: black;
+}
+
+.option
+
+
